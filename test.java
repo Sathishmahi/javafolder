@@ -9,8 +9,7 @@ class HelloWorld {
         // }
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
-        // int a=sc.nextInt();
-        // int a=sc.nextInt();
+   
         int a = 10;
         int b = 90;
         String j = sc.nextLine();
